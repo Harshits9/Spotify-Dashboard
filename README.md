@@ -53,6 +53,7 @@ KPI cards for quick metrics
 Design Approach - Spotify-inspired dark theme with green accents for brand consistency
 
 Screenshot / Demos
+
 Example: ![Dashboard Preview].(https://github.com/Harshits9/Spotify-Dashboard/blob/main/Overview.png). 
 
 
